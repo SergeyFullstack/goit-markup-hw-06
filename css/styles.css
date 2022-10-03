@@ -894,6 +894,13 @@ align-items: center;
   margin-left: 10px;
 }
 
+.footer-input:focus{
+  
+  outline-color:white ;
+  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+
+}
+
 /*--------------------------------------------------------MODAL-WINDOW---------------------------------------------------*/
 .backdrop{
 position: fixed;
